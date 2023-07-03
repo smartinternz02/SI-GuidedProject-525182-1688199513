@@ -1,4 +1,6 @@
 # SI-GuidedProject-525182-1688199513
+note: This is a solo project
+
 Vulnerability Exploitation and Patching:
 In an increasingly interconnected digital world, the security of websites and online systems has become a critical concern. The rise in cyberattacks and data breaches has exposed the vulnerabilities present within these systems, highlighting the urgent need for robust security measures. Vulnerability exploitation, a complex process involving the identification and exploitation of weaknesses in software applications, networks, and systems, plays a crucial role in understanding and mitigating potential risks.
 This comprehensive project delves deep into the intriguing field of vulnerability exploitation, with a specific focus on a carefully selected target website. Conducted with explicit permission from the website owner, the project aims to provide valuable insights into the vulnerabilities faced by websites and the effectiveness of various tools and techniques in identifying and exploiting them.
